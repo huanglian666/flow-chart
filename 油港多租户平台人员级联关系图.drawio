@@ -28,8 +28,8 @@
         <mxCell id="TYszPtwWjWxVEj9GVor7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYszPtwWjWxVEj9GVor7-8" target="TYszPtwWjWxVEj9GVor7-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYszPtwWjWxVEj9GVor7-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;操作界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="903" width="120" height="60" as="geometry" />
+        <mxCell id="TYszPtwWjWxVEj9GVor7-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;操作界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1213" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TYszPtwWjWxVEj9GVor7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYszPtwWjWxVEj9GVor7-9" target="TYszPtwWjWxVEj9GVor7-13">
           <mxGeometry relative="1" as="geometry" />
@@ -37,17 +37,17 @@
         <mxCell id="TYszPtwWjWxVEj9GVor7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYszPtwWjWxVEj9GVor7-9" target="TYszPtwWjWxVEj9GVor7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TYszPtwWjWxVEj9GVor7-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;管理后台&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="136" y="1030" width="120" height="60" as="geometry" />
+        <mxCell id="TYszPtwWjWxVEj9GVor7-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;管理后台&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="147" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TYszPtwWjWxVEj9GVor7-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;工作台&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="1027" width="120" height="60" as="geometry" />
+        <mxCell id="TYszPtwWjWxVEj9GVor7-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;工作台&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="572" y="1337" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TYszPtwWjWxVEj9GVor7-13" value="&lt;b&gt;平台管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31" y="1175" width="120" height="60" as="geometry" />
+        <mxCell id="TYszPtwWjWxVEj9GVor7-13" value="&lt;b&gt;平台管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="42" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TYszPtwWjWxVEj9GVor7-15" value="&lt;b&gt;租户管理&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="247" y="1175" width="120" height="60" as="geometry" />
+        <mxCell id="TYszPtwWjWxVEj9GVor7-15" value="&lt;b&gt;租户管理&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1485" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
